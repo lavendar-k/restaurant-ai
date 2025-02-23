@@ -35,7 +35,7 @@ A modern **Restaurant Ordering System** with an integrated **AI Chatbot**, built
 ## 📂 Project Structure
 
 ```
-📦 restaurant-ordering-system
+📦 restaurant-ai
 ├── 📂 src
 │   ├── 📂 components  # Reusable UI Components
 │   ├── 📂 pages       # Next.js Pages (Routing)
@@ -55,8 +55,8 @@ A modern **Restaurant Ordering System** with an integrated **AI Chatbot**, built
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/restaurant-ordering-system.git
-   cd restaurant-ordering-system
+   git clone https://github.com/lavendar-k/restaurant-ai.git
+   cd restaurant-ai
    ```
 
 2. **Install Dependencies**
@@ -127,4 +127,4 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-For questions or support, reach out to **your-email@example.com** or visit the [GitHub Repository](https://github.com/yourusername/restaurant-ordering-system).
+For questions or support, reach out to **your-email@example.com** or visit the [GitHub Repository](https://github.com/yourusername/restaurant-ai).
