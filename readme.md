@@ -28,9 +28,9 @@ A modern **Restaurant Ordering System** with an integrated **AI Chatbot**, built
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)
-![Order System](./screenshots/order.png)
-![AI Chatbot](./screenshots/chatbot.png)
+![Home Page](![1](https://github.com/user-attachments/assets/7542609e-24b9-4dd6-9018-fa0d486666af))
+![Order System](![10](https://github.com/user-attachments/assets/bb5bdc70-fb85-4f45-928e-20abe88edf2f))
+![AI Chatbot](![5](https://github.com/user-attachments/assets/e2932a98-cdd2-40a4-9977-fd1e3ae5bd5a))
 
 ## 📂 Project Structure
 
